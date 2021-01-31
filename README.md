@@ -18,3 +18,5 @@ There is a login timer that will time out after a preset period of time. If the 
 This isn't a prime time app - it works, but it is not secure and was built to better understand Javascript.
 
 Predominately, this is built using ES6 (2020).
+
+![bank app](bank_app.png)
